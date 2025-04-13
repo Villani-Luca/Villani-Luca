@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hi there, I am Luca Villani 💗</h1>
 
-<!--
-**Villani-Luca/Villani-Luca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<h1>About me 🙋</h1>
 
-Here are some ideas to get you started:
+- 🔭 I'm currently studying Machine Learning and Deep Learning.
+- 📚 First Year of Master Degree in Artificial Intelligence Engineering.
+- 👯 I’m looking to collaborate on ... Python projects & Web projects
+- 🔥 Fun fact: I used to study in Sweden for 2 years.
+- 🤙 More about me: 
+[![Linkedin](https://img.shields.io/badge/-Mei_Sun-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedIn.com/in/lucavillani00/)
+[![Instagram](https://img.shields.io/badge/-__momosunny-white?style=flat&logo=Instagram&logoColor=white&color=833AB4)](https://www.instagram.com/luca_villa00/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+  
+<h1>GitHub Stats 📊</h1>
+ 
+![Luca's github stats](https://github-readme-stats.vercel.app/api?username=Villani-Luca&show_icons=true&theme=dracula) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Villani-Luca&theme=dracula)](https://git.io/streak-stats) 
+  
+<br>
+<br/>
