@@ -4,7 +4,7 @@
 <h1>About me 🙋</h1>
 
 - 🔭 I'm currently studying Machine Learning and Deep Learning.
-- 📚 First Year of Master Degree in Artificial Intelligence Engineering.
+- 📚 Second Year of Master Degree in Artificial Intelligence Engineering.
 - 👯 I’m looking to collaborate on Python projects & Web projects
 - 🔥 I'm in love with animes and japan world
 - 🤙 More about me: 
